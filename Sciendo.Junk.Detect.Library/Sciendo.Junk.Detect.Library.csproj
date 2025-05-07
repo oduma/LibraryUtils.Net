@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Sciendo.Junk.Detect.Library</RootNamespace>
+    <AssemblyName>Sciendo.Junk.Detect.Library</AssemblyName>
+  </PropertyGroup>
+
+</Project>
